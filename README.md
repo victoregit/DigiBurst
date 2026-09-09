@@ -20,7 +20,7 @@ Enquanto você cresce, as ondas mudam e os inimigos ficam mais perigosos. Posici
 
 | Plataforma | Versão | Instalador |
 | --- | --- | --- |
-| Windows x64 | 0.1.0-prealpha.2 | [Instalar Digiburster](./Digiburster-0.1.0-prealpha.2-Setup.exe) |
+| Windows x64 | 0.1.0-prealpha.2 | [Instalar Digiburster](https://github.com/victoregit/DigiBurst/releases/tag/Pre-alpha0.1) |
 
 O instalador acompanha esta pasta. Para começar, execute **Digiburster-0.1.0-prealpha.2-Setup.exe**, conclua a instalação e abra o atalho do jogo. Depois, clique em **INICIAR PARTIDA**.
 
