@@ -3,7 +3,7 @@
   <h1>DIGIBURSTER</h1>
   <p><strong>Sobreviva às hordas. Monte sua build. Desperte sua próxima evolução.</strong></p>
   <p>Um survivor em pixel art inspirado no universo Digimon, com combate automático,<br>Digievoluções e escolhas que transformam sua partida.</p>
-  <p><strong>WINDOWS x64 · PRÉ-ALPHA · 0.1.0-prealpha.2</strong></p>
+  <p><strong>WINDOWS x64 · CLOSED BETA · 0.1.0-closed-beta.1</strong></p>
 </div>
 
 ---
@@ -20,9 +20,9 @@ Enquanto você cresce, as ondas mudam e os inimigos ficam mais perigosos. Posici
 
 | Plataforma | Versão | Instalador |
 | --- | --- | --- |
-| Windows x64 | 0.1.0-prealpha.2 | [Baixar instalador](https://github.com/victoregit/DigiBurst/releases/download/Pre-alpha0.1/Digiburster-0.1.0-prealpha.2-Setup.exe) |
+| Windows x64 | 0.1.0-closed-beta.1 | [Instalar Digiburster](./Digiburster-0.1.0-closed-beta.1-Setup.exe) |
 
-O instalador acompanha esta pasta. Para começar, execute **Digiburster-0.1.0-prealpha.2-Setup.exe**, conclua a instalação e abra o atalho do jogo. Depois, clique em **INICIAR PARTIDA**.
+O instalador acompanha esta pasta. Para começar, execute **Digiburster-0.1.0-closed-beta.1-Setup.exe**, conclua a instalação e abra o atalho do jogo. Depois, clique em **INICIAR PARTIDA**.
 
 Não precisa instalar Node.js nem abrir um servidor local.
 
@@ -65,15 +65,14 @@ Sprites pixelados, efeitos de combate e uma interface inspirada em terminais ant
 
 - Tela cheia / janela: Alt + Enter, F11 ou botão de tela cheia.
 
-## Novidades — 0.1.0-prealpha.2
+## Novidades — 0.1.0-closed-beta.1
 
-- O aplicativo abre em tela cheia.
-- Alt + Enter, F11 e o botão de tela cheia alternam o modo de exibição.
-- A Digievolução mantém movimento, ataques e inimigos ativos, com um aviso visual menor.
+- Build Closed Beta com ferramentas internas removidas do pacote distribuído.
+- Novos ajustes de habilidades, lore e encontros de campanha.
 
-## Participe da pré-alpha
+## Participe da Closed Beta
 
-Esta é uma versão em desenvolvimento. Seu teste ajuda a ajustar o ritmo das partidas, o impacto dos ataques e o equilíbrio das builds.
+Esta é uma versão de testes fechados. Seu feedback ajuda a corrigir problemas antes da próxima atualização.
 
 **Conte como foi a sua run:**
 
@@ -82,18 +81,18 @@ Esta é uma versão em desenvolvimento. Seu teste ajuda a ajustar o ritmo das pa
 - Algum ataque pareceu fraco, confuso ou sem impacto?
 - Houve travamentos ou queda de desempenho?
 
-Ao relatar um problema, envie a versão **0.1.0-prealpha.2**, os passos para reproduzir, o minuto da partida, seu Digimon e os itens usados. Capturas, vídeos e as especificações do PC ajudam bastante. Envie essas informações diretamente a quem compartilhou o jogo; o feedback não é enviado automaticamente.
+Ao relatar um problema, envie a versão **0.1.0-closed-beta.1**, os passos para reproduzir, o minuto da partida, seu Digimon e os itens usados. Capturas, vídeos e as especificações do PC ajudam bastante. Envie essas informações diretamente a quem compartilhou o jogo; o feedback não é enviado automaticamente.
 
 ## Antes de jogar
 
 - Balanceamento e funcionalidades podem mudar entre versões.
-- Podem ocorrer bugs e quedas de desempenho nesta pré-alpha.
+- Podem ocorrer bugs e quedas de desempenho nesta versão.
 - O instalador ainda não possui assinatura digital; o Windows pode exibir um aviso de editor desconhecido.
 
 
 ## Compartilhar esta versão
 
-Envie o **Setup.exe** junto deste **README.md** e do **icon.png**. O ícone ilustra esta apresentação; o instalador funciona sozinho. Arquivos .blockmap e pastas técnicas não são necessários para jogar.
+Para um repositório de releases separado, publique somente **Digiburster-0.1.0-closed-beta.1-Setup.exe**, este **README.md** e o **icon.png**. O ícone ilustra esta apresentação; o instalador funciona sozinho. Não publique arquivos .blockmap, pastas win-unpacked ou arquivos técnicos de empacotamento.
 
 ---
 
