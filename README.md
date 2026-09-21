@@ -20,7 +20,7 @@ Enquanto você cresce, as ondas mudam e os inimigos ficam mais perigosos. Posici
 
 | Plataforma | Versão | Instalador |
 | --- | --- | --- |
-| Windows x64 | 0.1.0-closed-beta.1 | [Instalar Digiburster](https://github.com/victoregit/DigiBurst/releases/download/0.1.0-closed-beta/Digiburster-0.1.0-closed-beta.3-Setup.exe) |
+| Windows x64 | 0.1.0-closed-beta.1 | [Instalar Digiburster](https://github.com/victoregit/DigiBurst/releases/download/0.1.0-closed-beta/Digiburster-0.1.0-closed-beta.4-Setup.exe) |
 
 O instalador acompanha esta pasta. Para começar, execute **Digiburster-0.1.0-closed-beta.1-Setup.exe**, conclua a instalação e abra o atalho do jogo. Depois, clique em **INICIAR PARTIDA**.
 
