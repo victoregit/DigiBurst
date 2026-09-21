@@ -3,7 +3,7 @@
   <h1>DIGIBURSTER</h1>
   <p><strong>Sobreviva às hordas. Monte sua build. Desperte sua próxima evolução.</strong></p>
   <p>Um survivor em pixel art inspirado no universo Digimon, com combate automático,<br>Digievoluções e escolhas que transformam sua partida.</p>
-  <p><strong>WINDOWS x64 · CLOSED BETA · 0.1.6</strong></p>
+  <p><strong>WINDOWS x64 · PRÉ-ALPHA · 0.1.6</strong></p>
 </div>
 
 ---
@@ -22,7 +22,7 @@ Enquanto você cresce, as ondas mudam e os inimigos ficam mais perigosos. Posici
 | --- | --- | --- |
 | Windows x64 | 0.1.6 | [Instalar Digiburster](https://github.com/victoregit/DigiBurst/releases/download/v0.1.6/Digiburster-0.1.6-Setup.exe) |
 
-Para começar, execute **Digiburster-0.1.6-Setup.exe**, conclua a instalação e abra o atalho do jogo. Depois, clique em **INICIAR PARTIDA**.
+O instalador acompanha esta pasta. Para começar, execute **Digiburster-0.1.6-Setup.exe**, conclua a instalação e abra o atalho do jogo. Depois, clique em **INICIAR PARTIDA**.
 
 Não precisa instalar Node.js nem abrir um servidor local.
 
@@ -70,9 +70,9 @@ Sprites pixelados, efeitos de combate e uma interface inspirada em terminais ant
 - A versão da build agora é exibida discretamente no rodapé do menu inicial.
 - O jogo verifica atualizações antes de abrir a partida e mantém atualizações encontradas como obrigatórias.
 
-## Participe da Closed Beta
+## Participe da pré-alpha
 
-Esta é uma versão de testes fechados. Seu feedback ajuda a corrigir problemas antes da próxima atualização.
+Esta é uma versão em desenvolvimento. Seu teste ajuda a ajustar o ritmo das partidas, o impacto dos ataques e o equilíbrio das builds.
 
 **Conte como foi a sua run:**
 
@@ -89,9 +89,10 @@ Ao relatar um problema, envie a versão **0.1.6**, os passos para reproduzir, o 
 - Podem ocorrer bugs e quedas de desempenho nesta versão.
 - O instalador ainda não possui assinatura digital; o Windows pode exibir um aviso de editor desconhecido.
 
+
 ## Compartilhar esta versão
 
-Para um repositório de releases separado, publique somente **Digiburster-0.1.6-Setup.exe**, este **README.md** e o **icon.png**. O ícone ilustra esta apresentação; o instalador funciona sozinho. Não publique arquivos `.blockmap`, pastas `win-unpacked` ou arquivos técnicos de empacotamento.
+Para um repositório de releases separado, publique somente **Digiburster-0.1.6-Setup.exe**, este **README.md** e o **icon.png**. O ícone ilustra esta apresentação; o instalador funciona sozinho. Não publique arquivos .blockmap, pastas win-unpacked ou arquivos técnicos de empacotamento.
 
 ---
 
