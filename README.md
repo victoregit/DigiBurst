@@ -3,7 +3,7 @@
   <h1>DIGIBURSTER</h1>
   <p><strong>Sobreviva às hordas. Monte sua build. Desperte sua próxima evolução.</strong></p>
   <p>Um survivor em pixel art inspirado no universo Digimon, com combate automático,<br>Digievoluções e escolhas que transformam sua partida.</p>
-  <p><strong>WINDOWS x64 · CLOSED BETA · 0.1.0-closed-beta.1</strong></p>
+  <p><strong>WINDOWS x64 · CLOSED BETA · 0.1.0-closed-beta.5</strong></p>
 </div>
 
 ---
@@ -20,9 +20,9 @@ Enquanto você cresce, as ondas mudam e os inimigos ficam mais perigosos. Posici
 
 | Plataforma | Versão | Instalador |
 | --- | --- | --- |
-| Windows x64 | 0.1.0-closed-beta.1 | [Instalar Digiburster](https://github.com/victoregit/DigiBurst/releases/download/0.1.0-closed-beta/Digiburster-0.1.0-closed-beta.4-Setup.exe) |
+| Windows x64 | 0.1.0-closed-beta.5 | [Instalar Digiburster](https://github.com/victoregit/DigiBurst/releases/download/v0.1.0-closed-beta.5/Digiburster-0.1.0-closed-beta.5-Setup.exe) |
 
-O instalador acompanha esta pasta. Para começar, execute **Digiburster-0.1.0-closed-beta.1-Setup.exe**, conclua a instalação e abra o atalho do jogo. Depois, clique em **INICIAR PARTIDA**.
+O instalador acompanha esta pasta. Para começar, execute **Digiburster-0.1.0-closed-beta.5-Setup.exe**, conclua a instalação e abra o atalho do jogo. Depois, clique em **INICIAR PARTIDA**.
 
 Não precisa instalar Node.js nem abrir um servidor local.
 
@@ -65,10 +65,10 @@ Sprites pixelados, efeitos de combate e uma interface inspirada em terminais ant
 
 - Tela cheia / janela: Alt + Enter, F11 ou botão de tela cheia.
 
-## Novidades — 0.1.0-closed-beta.1
+## Novidades — 0.1.0-closed-beta.5
 
-- Build Closed Beta com ferramentas internas removidas do pacote distribuído.
-- Novos ajustes de habilidades, lore e encontros de campanha.
+- Atualizador integrado: futuras versões da Closed Beta serão detectadas pelo aplicativo.
+- Atualizações disponíveis são obrigatórias, baixadas automaticamente e aplicadas ao reiniciar o jogo.
 
 ## Participe da Closed Beta
 
@@ -81,18 +81,18 @@ Esta é uma versão de testes fechados. Seu feedback ajuda a corrigir problemas 
 - Algum ataque pareceu fraco, confuso ou sem impacto?
 - Houve travamentos ou queda de desempenho?
 
-Ao relatar um problema, envie a versão **0.1.0-closed-beta.1**, os passos para reproduzir, o minuto da partida, seu Digimon e os itens usados. Capturas, vídeos e as especificações do PC ajudam bastante. Envie essas informações diretamente a quem compartilhou o jogo; o feedback não é enviado automaticamente.
+Ao relatar um problema, envie a versão **0.1.0-closed-beta.5**, os passos para reproduzir, o minuto da partida, seu Digimon e os itens usados. Capturas, vídeos e as especificações do PC ajudam bastante. Envie essas informações diretamente a quem compartilhou o jogo; o feedback não é enviado automaticamente.
 
 ## Antes de jogar
 
 - Balanceamento e funcionalidades podem mudar entre versões.
 - Podem ocorrer bugs e quedas de desempenho nesta versão.
 - O instalador ainda não possui assinatura digital; o Windows pode exibir um aviso de editor desconhecido.
-
+- Esta versão precisa ser instalada manualmente uma única vez; o atualizador entra em funcionamento a partir dela.
 
 ## Compartilhar esta versão
 
-Para um repositório de releases separado, publique somente **Digiburster-0.1.0-closed-beta.1-Setup.exe**, este **README.md** e o **icon.png**. O ícone ilustra esta apresentação; o instalador funciona sozinho. Não publique arquivos .blockmap, pastas win-unpacked ou arquivos técnicos de empacotamento.
+Para um repositório de releases separado, publique somente **Digiburster-0.1.0-closed-beta.5-Setup.exe**, este **README.md** e o **icon.png**. O ícone ilustra esta apresentação; o instalador funciona sozinho. Não publique arquivos .blockmap, pastas win-unpacked ou arquivos técnicos de empacotamento.
 
 ---
 
